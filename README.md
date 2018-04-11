@@ -15,7 +15,7 @@ Table of Contents
     * [Opening Applications](#opening-applications)
     * [Quick Github Browser Navigation](#quick-github-browser-navigation)
     * [Branch and File Managers](#branches-manager)
-    * [Quick Editing/Viewing Recently Changed Files](#quick-editing/viewing-recently-changed-files)
+    * [Quick Editing & Viewing Recently Changed Files](#quick-editing-&-viewing-recently-changed-files)
     * [Rubocop Code Checking](#rubocop-code-checking)
     * [Web Searching](#web-searching)
 
@@ -424,7 +424,7 @@ $ files 2 1
 
 
 
-## Quick Editing/Viewing Recently Changed Files
+## Quick Editing & Viewing Recently Changed Files
 
 
 
