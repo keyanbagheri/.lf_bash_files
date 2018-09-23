@@ -2,14 +2,11 @@
 
 # Command Line Shortcuts
 
-![leadfeeder-mascot.jgq](leadfeeder-mascot.jpg)
-
-
 
 Table of Contents
 =================
 
-  * [About Leadfeeder Command Line Shortcuts](#about-leadfeeder-command-line-shortcuts)
+  * [About Command Line Shortcuts](#about-command-line-shortcuts)
     * [Basic Setup](#basic-setup)
     * [Start All Work Apps](#start-all-work-apps)
     * [Opening Applications](#opening-applications)
@@ -21,7 +18,7 @@ Table of Contents
 
 
 
-About Leadfeeder Command Line Shortcuts
+About Command Line Shortcuts
 =======
 
 
@@ -66,7 +63,7 @@ Basic Setup
 
   ​
 
-##### Setting Up Your Preferred Applications and Your Leadfeeder Code Path
+##### Setting Up Your Preferred Applications and Your Code Path
 
 ---
 
@@ -80,7 +77,7 @@ Basic Setup
    2. The Application Names of your Preffered:
       1. **Text Editor** ("Sublime Text", "Atom", etc.)
       2. **Web Browser** ("Google Chrome", "Firefox", etc.)
-   3. The absolute path to your Leadfeeder **/Code** directory
+   3. The absolute path to your **/Code** directory
 
 3. Restart Terminal or enter following command
 
@@ -156,7 +153,7 @@ Basic Setup
 
 ###### Open Browser To Specific Webpage
 
-`$ web app.leadfeeder.com` 
+`$ web www.facebook.com` 
 
 
 
